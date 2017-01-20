@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MetroTiles</string>
+
+    <array name="demo_tile_icons">
+        <item>@drawable/ic_info_outline_black_24dp</item>
+        <item>@drawable/ic_info_outline_black_24dp</item>
+        <item>@drawable/ic_info_outline_black_24dp</item>
+        <item>@drawable/ic_info_outline_black_24dp</item>
+        <item>@drawable/ic_info_outline_black_24dp</item>
+        <item>@drawable/ic_info_outline_black_24dp</item>
+        <item>@drawable/ic_info_outline_black_24dp</item>
+    </array>
+    <string-array name="demo_tile_titles">
+        <item>Button 1</item>
+        <item>Button 2</item>
+        <item>Button 3</item>
+        <item>Button 4</item>
+        <item>Button 5</item>
+        <item>Button 6</item>
+        <item>Button 7</item>
+    </string-array>
+</resources>
